@@ -1,0 +1,2 @@
+Example using SQLite & pickle by Mathieu Perreault.
+Will not work out of the box since there is no .csv file here, but serves as a good example.
